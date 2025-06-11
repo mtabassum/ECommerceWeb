@@ -361,3 +361,7 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/ECommerceWebRazor_temp
+/ECommerceWeb/Views/Category/Create.cshtml
+/ECommerceWeb/Views/Category/Delete.cshtml
+/ECommerceWeb/Views/Category/Edit.cshtml
