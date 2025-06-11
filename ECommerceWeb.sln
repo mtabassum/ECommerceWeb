@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36127.28 d17.14
+VisualStudioVersion = 17.14.36127.28
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerceWeb", "ECommerceWeb\ECommerceWeb.csproj", "{C6A1E87D-CA84-44BB-AD54-430D58C027E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerceWebRazor_temp", "ECommerceWebRazor_temp\ECommerceWebRazor_temp.csproj", "{613B9599-1BB6-37FB-185C-837AFF1C7ED1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{C6A1E87D-CA84-44BB-AD54-430D58C027E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6A1E87D-CA84-44BB-AD54-430D58C027E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6A1E87D-CA84-44BB-AD54-430D58C027E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{613B9599-1BB6-37FB-185C-837AFF1C7ED1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{613B9599-1BB6-37FB-185C-837AFF1C7ED1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{613B9599-1BB6-37FB-185C-837AFF1C7ED1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{613B9599-1BB6-37FB-185C-837AFF1C7ED1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
